@@ -1,5 +1,5 @@
 # JVTrade
-Trader++ est un userscript pour les utilisateurs du premier forum finance d'Europe. Il rajoute de nombreuses fonctionaliés pour suivire en temps réels le cours de diffénte crypto sous.
+Trader++ est un userscript pour les utilisateurs du premier forum finance d'Europe. Il rajoute de nombreuses fonctionaliés pour suivire en temps réels le cours de diffénts crypto sous.
 
 # Installation
 https://openuserjs.org/about/Userscript-Beginners-HOWTO
