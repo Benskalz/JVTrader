@@ -13,6 +13,21 @@
 // @downloadURL  https://openuserjs.org/install/-01/Trader_++.user.js
 // @grant        none
 // ==/UserScript==
+
+/* -----------------Changes Logs----------------
+
+v 0.9.3
+- Détection des topic cryptos plus large (plus forcément en majuscule et entre crochet
+- Ajout du logo de la crypto
+- Optimisation
+
+
+v 0.9.2
+-Fix du bug sur le topic de l'IOTA
+-Fix d'une potentielle faille
+
+*/
+
 (function() {
 
     
