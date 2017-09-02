@@ -10,6 +10,7 @@
 // @require      https://static.cryptowat.ch/assets/scripts/embed.bundle.js
 // @require      https://files.coinmarketcap.com/static/widget/currency.js
 // @run-at       document-end
+// @updateURL    https://openuserjs.org/install/-01/Trader_++.user.js
 // @downloadURL  https://openuserjs.org/install/-01/Trader_++.user.js
 // @grant        none
 // ==/UserScript==
